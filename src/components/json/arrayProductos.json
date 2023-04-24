@@ -1,0 +1,11 @@
+[
+    {"index":1, "nombre":"Motorola", "descripcion":"Motorola G200 ", "imagen": "/img/g200.jpg", "precio":100000, "stock":2, "categoria":"Motorola"},
+    {"index":2, "nombre":"Motorola 30 pro", "descripcion":"Motorola 30pro ", "imagen":"/img/30pro.jpg", "precio":140000, "stock":4, "categoria":"Motorola"},
+    {"index":3, "nombre":"Motorola 30 Ultra", "descripcion":"Motorola 30 ultra", "imagen":"/img/3'ultra.jpg", "precio":165000, "stock":5, "categoria":"Motorola"},
+    {"index":4, "nombre":"Samsung Z flip 4 ", "descripcion":"Samsung Z flip 4 ", "imagen":"/img/zflip.jpg", "precio":190000, "stock":2, "categoria":"Samsung"},
+    {"index":5, "nombre":"Samsung Z Fold 4", "descripcion":"Samsung Z fold 4 ", "imagen":"/img/zfold4.jpg", "precio":245000, "stock":3, "categoria":"Samsung"},
+    {"index":6, "nombre":"Samsung 23 ultra", "descripcion":"Samsung 23 Ultra ", "imagen":"/img/23.jpg", "precio":260000, "stock":5, "categoria":"Samsung"},
+    {"index":7, "nombre":"Iphone 14", "descripcion":"Iphone 14 ", "imagen":"/img/14.jpg", "precio":260000, "stock":2, "categoria":"Iphone"},
+    {"index":8, "nombre":"Iphone 14 Pro", "descripcion":"Iphone 14 pro", "imagen":"/img/14pro.jpg", "precio":290000, "stock":5, "categoria":"Iphone"},
+    {"index":9, "nombre":"Iphone 14 pro max ", "descripcion":"Iphone 14 pro max ", "imagen":"/img/14promax.jpg", "precio":320000, "stock":4, "categoria":"Iphone"}
+]
