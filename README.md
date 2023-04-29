@@ -1,3 +1,7 @@
+
+## npm start --legacy
+Sino llega a funcionar npm start, hay que ejecutar el npm start legacy 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
